@@ -1,7 +1,6 @@
 {
   "name": "recepie-api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon app.js"
@@ -15,5 +14,14 @@
     "mongodb": "^6.3.0",
     "mongoose": "^8.0.3",
     "nodemon": "^3.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Areeb786123/recepie-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Areeb786123/recepie-api/issues"
+  },
+  "homepage": "https://github.com/Areeb786123/recepie-api#readme",
+  "description": ""
 }
